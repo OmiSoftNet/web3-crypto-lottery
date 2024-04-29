@@ -10,9 +10,10 @@ We will help you with product implementation so that you can fully focus on mark
 
 - Authorization via Trust Wallet, Wallet Connect & Coinbase Wallet
 - Multichain
+- Mobile Adaptation
 - Deposit & Withdrawal via Crypto
 - Crypto Lottery application
-- Admin panel
+- Admin Panel
 - Figma file with design
 - Localization
 - SEO Optimizations (Marketing)
@@ -28,9 +29,12 @@ We will help you with product implementation so that you can fully focus on mark
       <li>Integration with Social Networks</li>
       <li>Mobile Application (A license is required)</li>
       <li>Telegram bot or Telegram Mini App</li>
+      <li>Loot Boxes</li>
+      <li>Google Adsense</li>
       <li>Join Bonus (Marketing)</li>
       <li>Daily Bonus (Marketing)</li>
       <li>Referral System (Marketing)</li>
+      <li>...and any other idea you have</li>
   </ul>
 </details>
 
