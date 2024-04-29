@@ -95,8 +95,8 @@ Want a personal demo of our Crypto Lottery solution?
 
 Write to us, and we will answer all your questions and tell you all about your potential lottery:
 
-- [Our Telegram](https://telegram.me/omisoft)
-- [Contact Us page](https://omisoft.net/contact-us/)
+- <a href="https://telegram.me/omisoft" target="_blank">Our Telegram</a>
+- <a href="https://omisoft.net/contact-us?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">Contact Us page</a>
 - [Our Email](mailto:hi@omisoft.net)
 
 ## Supported Networks
@@ -150,8 +150,8 @@ If you're serious and ready to play the long game, we can be your technology par
 
 ## Other Package Solutions
 
-- [Crypto Lottery](https://omisoft.net/demo/crypto-lottery/)
-- [Dex Platform](https://omisoft.net/demo/white-label-dex-solutions/)
-- [ICO & IDO Launchpad](https://omisoft.net/demo/white-label-crypto-launchpad-development/)
-- [NFT Marketplace](https://omisoft.net/demo/whitelabel-nft-marketplace-development/)
-- [Meme Coin Solution](https://omisoft.net/demo/meme-coin-development-service/)
+- <a href="https://omisoft.net/demo/crypto-lottery?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">Crypto Lottery</a>
+- <a href="https://omisoft.net/demo/white-label-dex-solutions?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">Dex Platform</a>
+- <a href="https://omisoft.net/demo/white-label-crypto-launchpad-development?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">ICO & IDO Launchpad</a>
+- <a href="https://omisoft.net/demo/whitelabel-nft-marketplace-development?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">NFT Marketplace</a>
+- <a href="https://omisoft.net/demo/meme-coin-development-service?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">Meme Coin Solution</a>
