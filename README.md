@@ -53,6 +53,31 @@ A crypto lottery that can be deployed in a few days and that supports 10+ networ
 | Custom design    | Only colors   | Yes           | Yes           |
 | Pricing          | $5000         | $20.000       | Contact Us    |
 
+## Live Demo
+
+Want a personal demo of our Crypto Lottery solution?
+
+Write to us, and we will answer all your questions and tell you all about your potential lottery:
+
+- [Our Telegram](https://telegram.me/omisoft)
+- [Contact Us page](https://omisoft.net/contact-us/)
+- [Our Email](mailto:hi@omisoft.net)
+
+## Supported Networks
+
+- Ethereum
+- Arbitrum
+- Optimism
+- Polygon
+- Base
+- BSC (BNB Chain, Binance Smart Chain)
+- Avalanche
+- Celo
+- Blast
+- Polkadot
+- Solana
+- And others, write to us if the network you need is not in this list
+
 ## Frequently asked questions
 
 <details>
@@ -81,7 +106,9 @@ A crypto lottery that can be deployed in a few days and that supports 10+ networ
   <p>Basic Package maintenance is free, and NoFee Package maintenance costs $2,000 per year.</p>
 </details>
 
-## Contacts
+## Other Package Solutions
 
-- [Telegram (Write if you have any questions)](https://telegram.me/omisoft)
-- [Project Page](https://omisoft.net/demo/crypto-lottery/)
+- [Crypto Lottery](https://omisoft.net/demo/crypto-lottery/)
+- [Dex Platform](https://omisoft.net/demo/white-label-dex-solutions/)
+- [ICO & IDO Launchpad](https://omisoft.net/demo/white-label-crypto-launchpad-development/)
+- [NFT Marketplace](https://omisoft.net/demo/whitelabel-nft-marketplace-development/)
