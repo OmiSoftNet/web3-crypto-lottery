@@ -14,6 +14,10 @@ We will help you with product implementation so that you can fully focus on mark
 - Crypto Lottery application
 - Admin panel
 - Figma file with design
+- Localization
+- SEO Optimizations (Marketing)
+- Google Analytics (Marketing)
+- Microsoft Clarity (Marketing)
 
 <details>
   <summary>Additional can be developed</summary>
@@ -24,6 +28,9 @@ We will help you with product implementation so that you can fully focus on mark
       <li>Integration with Social Networks</li>
       <li>Mobile Application (A license is required)</li>
       <li>Telegram bot or Telegram Mini App</li>
+      <li>Join Bonus (Marketing)</li>
+      <li>Daily Bonus (Marketing)</li>
+      <li>Referral System (Marketing)</li>
   </ul>
 </details>
 
