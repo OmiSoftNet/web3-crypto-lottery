@@ -142,6 +142,12 @@ Write to us, and we will answer all your questions and tell you all about your p
   <p>Basic Package maintenance is free, and NoFee Package maintenance costs $2,000 per year.</p>
 </details>
 
+## Summary
+
+Building a successful product is always an investment of a lot of time and personal focus. Not to mention financial investments.
+
+If you're serious and ready to play the long game, we can be your technology partner along the way.
+
 ## Other Package Solutions
 
 - [Crypto Lottery](https://omisoft.net/demo/crypto-lottery/)
