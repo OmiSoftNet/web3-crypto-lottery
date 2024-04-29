@@ -4,6 +4,29 @@ If you have a desire to launch your own crypto lottery, but you are not ready to
 
 We will help you with product implementation so that you can fully focus on marketing and sales.
 
+## Functionality
+
+### Available options
+
+- Authorization via Trust Wallet, Wallet Connect & Coinbase Wallet
+- Multichain
+- Deposit & Withdrawal via Crypto
+- Crypto Lottery application
+- Admin panel
+- Figma file with design
+
+<details>
+  <summary>Additional can be developed</summary>
+  <ul>
+      <li>Deposit & Withdrawal via Fiat (A license is required)</li>
+      <li>Landing Page</li>
+      <li>Blog</li>
+      <li>Integration with Social Networks</li>
+      <li>Mobile Application (A license is required)</li>
+      <li>Telegram bot or Telegram Mini App</li>
+  </ul>
+</details>
+
 ## Tech Stack
 
 <details>
@@ -19,7 +42,7 @@ We will help you with product implementation so that you can fully focus on mark
 </details>
 
 <details>
-  <summary>Back End</summary>
+  <summary>Back End Side</summary>
   <ul>
       <li>Node.js</li>
       <li>Express.js</li>
@@ -31,9 +54,9 @@ We will help you with product implementation so that you can fully focus on mark
 </details>
 
 <details>
-  <summary>Blockchain</summary>
+  <summary>Blockchain Side</summary>
   <ul>
-      <li>Solidity</li>
+      <li>Solidity (Crypto Lottery Smart Contract)</li>
   </ul>
 </details>
 
@@ -114,3 +137,4 @@ Write to us, and we will answer all your questions and tell you all about your p
 - [Dex Platform](https://omisoft.net/demo/white-label-dex-solutions/)
 - [ICO & IDO Launchpad](https://omisoft.net/demo/white-label-crypto-launchpad-development/)
 - [NFT Marketplace](https://omisoft.net/demo/whitelabel-nft-marketplace-development/)
+- [Meme Coin Solution](https://omisoft.net/demo/meme-coin-development-service/)
