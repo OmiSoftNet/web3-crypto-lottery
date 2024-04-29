@@ -1,6 +1,8 @@
-# Web3 Crypto Lottery
+# Blockchain Crypto Lottery
 
-A crypto lottery that can be deployed in a few days and that supports 10+ networks, including: Ethereum, BSC (BNB Chain), Solana, Polygon, Arbitrum...
+If you have a desire to launch your own crypto lottery, but you are not ready to spend tens of thousands of dollars on the development and further support of the product, then you have come to the right place.
+
+We will help you with product implementation so that you can fully focus on marketing and sales.
 
 ## Tech Stack
 
