@@ -4,6 +4,9 @@ If you have a desire to launch your own crypto lottery, but you are not ready to
 
 We will help you with product implementation so that you can fully focus on marketing and sales.
 
+![Crypto Lottery GitHub Image](/images/image1.jpg "Crypto Lottery White Label | GitHub")
+![Crypto Lottery GitHub Image](/images/image2.jpg "Blockchain Lottery Package Solution | GitHub")
+
 ## Functionality
 
 ### Available options
@@ -16,6 +19,8 @@ We will help you with product implementation so that you can fully focus on mark
 - Admin Panel
 - Figma file with design
 - Localization
+- DDoS Protection (DevOps)
+- CI/CD (DevOps)
 - SEO Optimizations (Marketing)
 - Google Analytics (Marketing)
 - Microsoft Clarity (Marketing)
