@@ -123,7 +123,7 @@ Write to us, and we will answer all your questions and tell you all about your p
 
 <details>
   <summary>What's the cost of the white-label crypto lottery development?</summary>
-  <p>We have two price offers:</p> 
+  <p>We have three price offers:</p> 
   <ul>
       <li>Basic Package - <b>$5,000</b> first payment and 2% of revenue. For these funds, the solution will be adapted for you and deployed on your server. Product maintenance will be free.</li>
       <li>NoFee Package - <b>$20,000</b> first payment and $2,000 per year for maintenance. Suitable if you have a large community and there will be many users from the start.</li>
