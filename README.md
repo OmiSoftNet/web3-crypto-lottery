@@ -147,6 +147,16 @@ Write to us, and we will answer all your questions and tell you all about your p
   <p>Basic Package maintenance is free, and NoFee Package maintenance costs $2,000 per year.</p>
 </details>
 
+<details>
+  <summary>Is the Payment Gateway included in the Crypto Lottery?</summary>
+  <p>No, as it requires a license. If you have the appropriate license, we can add this functionality for an additional fee by integrating with the bank or payment gateway you need.</p>
+</details>
+
+<details>
+  <summary>Can we host the product on our server?</summary>
+  <p>Yes, we can configure CI/CD so that all updates are automatically deployed to your server.</p>
+</details>
+
 ## Summary
 
 Building a successful product is always an investment of a lot of time and personal focus. Not to mention financial investments.
@@ -155,6 +165,7 @@ If you're serious and ready to play the long game, we can be your technology par
 
 ## Other Package Solutions
 
+- <a href="https://omisoft.net/demo/notcoin-script?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">NotCoin Like Game</a>
 - <a href="https://omisoft.net/demo/crypto-lottery?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">Crypto Lottery</a>
 - <a href="https://omisoft.net/demo/white-label-dex-solutions?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">Dex Platform</a>
 - <a href="https://omisoft.net/demo/white-label-crypto-launchpad-development?utm_campaign=web3-crypto-lottery&utm_medium=social&utm_source=github" target="_blank">ICO & IDO Launchpad</a>
