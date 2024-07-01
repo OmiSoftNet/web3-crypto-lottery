@@ -92,7 +92,7 @@ We will help you with product implementation so that you can fully focus on mark
 | Maintenance Cost | Free          | $2,000 / year | Free          |
 | Community        | 1000+         | 10000+        | 50000+        |
 | Custom design    | Only colors   | Yes           | Yes           |
-| Pricing          | $5000         | $20.000       | Contact Us    |
+| Pricing          | $5,000        | $20,000       | Contact Us    |
 
 > [!IMPORTANT]  
 > We are constantly adding new offers, and to be informed, [subscribe to our telegram](https://t.me/omisoftoffers) 🚴‍♂️🚴‍♂️🚴‍♂️
